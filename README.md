@@ -4,4 +4,4 @@
 
 ### testing webhook locally through ngrok
 
-It's also mail notification configured..
+It's also mail notification configured.
