@@ -5,3 +5,5 @@
 ### testing webhook locally through ngrok
 
 It's also mail notification configured..
+
+adding github endpoint
