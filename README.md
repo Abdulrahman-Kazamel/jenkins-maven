@@ -6,4 +6,4 @@
 
 It's also mail notification configured..
 
-adding github endpoint
+adding github endpoint...
