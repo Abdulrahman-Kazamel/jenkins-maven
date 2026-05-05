@@ -7,3 +7,5 @@
 It's also mail notification configured..
 
 adding github endpoint...
+
+fix the github webhook , adding the /
