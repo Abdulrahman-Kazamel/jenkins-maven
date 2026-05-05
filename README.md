@@ -2,4 +2,6 @@
 ## devops Arabia Jenkins Course
 
 
-### testing webhook locally through ngrok...>
+### testing webhook locally through ngrok
+
+It's also mail notification configured.
